@@ -1,0 +1,13 @@
+C:\Users\Dave\source\repos\DuplicatedFileFinder\bin\Debug\netcoreapp3.1\DuplicatedFileFinder.exe
+C:\Users\Dave\source\repos\DuplicatedFileFinder\bin\Debug\netcoreapp3.1\DuplicatedFileFinder.deps.json
+C:\Users\Dave\source\repos\DuplicatedFileFinder\bin\Debug\netcoreapp3.1\DuplicatedFileFinder.runtimeconfig.json
+C:\Users\Dave\source\repos\DuplicatedFileFinder\bin\Debug\netcoreapp3.1\DuplicatedFileFinder.runtimeconfig.dev.json
+C:\Users\Dave\source\repos\DuplicatedFileFinder\bin\Debug\netcoreapp3.1\DuplicatedFileFinder.dll
+C:\Users\Dave\source\repos\DuplicatedFileFinder\bin\Debug\netcoreapp3.1\DuplicatedFileFinder.pdb
+C:\Users\Dave\source\repos\DuplicatedFileFinder\obj\Debug\netcoreapp3.1\DuplicatedFileFinder.csprojAssemblyReference.cache
+C:\Users\Dave\source\repos\DuplicatedFileFinder\obj\Debug\netcoreapp3.1\DuplicatedFileFinder.AssemblyInfoInputs.cache
+C:\Users\Dave\source\repos\DuplicatedFileFinder\obj\Debug\netcoreapp3.1\DuplicatedFileFinder.AssemblyInfo.cs
+C:\Users\Dave\source\repos\DuplicatedFileFinder\obj\Debug\netcoreapp3.1\DuplicatedFileFinder.csproj.CoreCompileInputs.cache
+C:\Users\Dave\source\repos\DuplicatedFileFinder\obj\Debug\netcoreapp3.1\DuplicatedFileFinder.dll
+C:\Users\Dave\source\repos\DuplicatedFileFinder\obj\Debug\netcoreapp3.1\DuplicatedFileFinder.pdb
+C:\Users\Dave\source\repos\DuplicatedFileFinder\obj\Debug\netcoreapp3.1\DuplicatedFileFinder.genruntimeconfig.cache
